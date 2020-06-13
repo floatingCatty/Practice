@@ -1,3 +1,4 @@
 # Practice
-record of model reproduction
-/i asdasd
+record of model Implementation from read papers
+********************************************************
+1. 
